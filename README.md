@@ -9,12 +9,14 @@ The Address Extraction Using AI Models project aims to revolutionize the process
 Our primary objective was to develop an AI model capable of accurately extracting addresses from diverse textual datasets found in PDF documents. By leveraging state-of-the-art language models such as Mistral 7B and Large Language Models (LLMs), we aimed to demonstrate practical applications for automated address extraction, offering seamless integration into real-world scenarios.
 
 **Functionality**
+
 We spearheaded the development of a bespoke AI model tailored specifically for address extraction. Our approach involved:
 
   1. Training with Mistral 7B: Leveraging the formidable capabilities of Mistral 7B, an advanced language model, to understand and extract address information from textual data.
   2. Utilization of LLMs: Incorporating Large Language Models to enhance the model's ability to recognize and extract addresses accurately across diverse datasets.
 
 **Impact**
+
 The success of this initiative marked significant progress in the realm of automated address extraction from PDF documents. Key outcomes include:
 
   1. Enhanced Accuracy: Our AI model demonstrated superior accuracy in extracting addresses, surpassing traditional manual extraction methods.
