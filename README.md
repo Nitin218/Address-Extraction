@@ -31,6 +31,8 @@ The success of this initiative marked significant progress in the realm of autom
   4. Initiate Extraction: Click the "Upload" button to start the extraction process. Our system will seamlessly process the document and metadata in the background.
   5. View Extracted Data: Once the extraction is complete, the user interface will display a table containing the extracted addresses, organized in a structured format for easy review and analysis.
 
+**Click on the image below to see the video:**
+
 [![Address_Extraction_Tool](http://img.youtube.com/vi/ojm0NEThZIQ/0.jpg)](http://www.youtube.com/watch?v=ojm0NEThZIQ"Address_Extraction_Tool”) 
 
 
